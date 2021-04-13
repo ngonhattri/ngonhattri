@@ -10,14 +10,6 @@
 
 ### 👨‍💻 スタック
 
-### 開発環境
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-222222?style=flat&logo=android-studio)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 ## 🚀 テクノロジー
 <p align="center">
 <a href="https://www.java.com" target="_blank"><img align="center" alt="Java" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/java/java.svg"></a>
@@ -36,7 +28,7 @@
   
 <a  href="https://github.com/ngonhattri"> 
   
-<img alt="" width="50%" src="https://github-readme-stats.vercel.app/api?username=ngonhattri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" href="https://github.com/ngonhattri" />
+<img alt="" height="50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=ngonhattri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" href="https://github.com/ngonhattri" />
 <img alt="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngonhattri&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" href="https://github.com/ngonhattri" />
 
 </a>
