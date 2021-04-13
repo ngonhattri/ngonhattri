@@ -26,6 +26,19 @@
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+## 🚀 テクノロジー
+<p align="center">
+<a href="https://www.java.com" target="_blank"><img align="center" alt="Java" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/java/java.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="center" alt="Android" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/android/android.svg"> </a>
+<a href="https://swift.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/swift/swift.svg" align="center" alt="Swift" height='42px'/> </a>
+<a href="https://dart.dev" target="_blank"> <img align="center" alt="Dart" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/dart/dart.svg"> </a>
+<a href="https://flutter.dev" target="_blank"> <img align="center" alt="Flutter" height ="42px" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/flutter/flutter.svg"> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="center" src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/git-scm/git-scm.svg" align="center" alt="git" height='42px'/> </a>
+<a href="https://postgresql.org/" target="_blank"> <img src="https://github.com/caokietbk/caokietbk/blob/ba4c8db92ac8b3b7213de683b4fad328ddf4300a/square/postgresql/postgresql.svg" align="center" alt="Postgresql" height='42px'/> </a>
+</p>
+<hr></hr>
+
 ## 📊 Stats
 <div align="center" >
   
