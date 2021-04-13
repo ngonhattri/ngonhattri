@@ -10,14 +10,6 @@
 
 ### 👨‍💻 スタック
 
-### プログラミング言語
-
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=android)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
-![Flutter](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Flutter&logoColor=1575F9)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
 ### 開発環境
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
