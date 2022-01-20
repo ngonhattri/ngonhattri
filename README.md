@@ -1,6 +1,4 @@
-### 👋 こんにちは！チーです。 (ニックネーム: TR1S)
-
-- モバイル開発や情報システムを勉強しています。
+### 👋 こんにちは！チーです
 
 ### ☕ お問い合わせ
 [![Facebook](https://img.shields.io/badge/-Facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ngo.nhattri)
