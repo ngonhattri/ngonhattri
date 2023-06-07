@@ -6,11 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngonhattri/)
 [![ngonhattri.github.io](https://img.shields.io/badge/-NGONHATTRI.GITHUB.IO-000000?style=for-the-badge&logo=react&logoColor=white)](https://ngonhattri.github.io/#/)
 
-### 👨‍💻 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-## 📊 Stats
+![](./profile-3d-contrib/profile-night-green.svg)
 <div align="center" >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ngonhattri&count_private=true&show_icons=true&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngonhattri&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ngonhattri&count_private=true&show_icons=true&theme=onedark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngonhattri&theme=onedark" />
 </div>
