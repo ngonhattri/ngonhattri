@@ -8,6 +8,6 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 <div align="center" >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ngonhattri&count_private=true&show_icons=true&theme=onedark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngonhattri&theme=onedark" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ngonhattri&count_private=true&show_icons=true&theme=cobalt" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ngonhattri&theme=cobalt" />
 </div>
